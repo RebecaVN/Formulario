@@ -6,6 +6,6 @@
 2 -  um formulário de cadastro,  que valide por Javascript se os campos  estão preenchidos.
  <br>
 → Campos: Nome, idade, sexo
-> <hr>
+<hr>
 
 <img width="100%" heigth="100px" src="ass.svg"></img>
