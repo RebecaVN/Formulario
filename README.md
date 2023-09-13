@@ -2,9 +2,9 @@
 > Desenvolva uma página que possua:
 <br>
 1 -  um botão que alterna o tema entre claro e escuro.
-> <br>
+ <br>
 2 -  um formulário de cadastro,  que valide por Javascript se os campos  estão preenchidos.
-> <br>
+ <br>
 → Campos: Nome, idade, sexo
 > <hr>
 
